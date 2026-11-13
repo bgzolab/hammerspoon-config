@@ -1,13 +1,4 @@
-# Hammerspoon config
-
-[![Contributors](https://img.shields.io/github/contributors/bgzolab/.hammerspoon.svg?style=for-the-badge)](https://github.com/bgzolab/.hammerspoon/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/bgzolab/.hammerspoon.svg?style=for-the-badge)](https://github.com/bgzolab/.hammerspoon/network/members)
-[![Stargazers](https://img.shields.io/github/stars/bgzolab/.hammerspoon.svg?style=for-the-badge)](https://github.com/bgzolab/.hammerspoon/stargazers)
-[![Issues](https://img.shields.io/github/issues/bgzolab/.hammerspoon.svg?style=for-the-badge)](https://github.com/bgzolab/.hammerspoon/issues)
-[![Licence](https://img.shields.io/github/license/bgzolab/.hammerspoon.svg?style=for-the-badge)](https://github.com/bgzolab/.hammerspoon/blob/template/LICENCE)
-[![Telegram](https://img.shields.io/badge/-telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555)](https://t.me/imbGZo)
-
-## Getting Started
+# Hammerspoon Config
 
 ## Usage
 
