@@ -13,6 +13,7 @@
 
 1. Replace key `·` to -> `
 2. Replace key `…` to -> `:`
+3. Tap `Shift` (left or right) to switch between ABC and Shuangpin input sources
 
 ## Contributing
 
