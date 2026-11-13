@@ -1,5 +1,13 @@
 # Hammerspoon Config
 
+## Getting Started
+
+```sh
+git clone https://github.com/bgzolab/hammerspoon-config.git ~/.hammerspoon
+```
+
+Hammerspoon loads `~/.hammerspoon/init.lua` on launch. After editing the config, choose **Reload Config** from the Hammerspoon menu bar.
+
 ## Usage
 
 1. Replace key `·` to -> `
@@ -21,8 +29,8 @@ Don't forget to give the project a star! Thanks again!
 
 Top contributors:
 
-<a href="https://github.com/bgzolab/.hammerspoon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bgzolab/.hammerspoon" alt="contrib.rocks image" />
+<a href="https://github.com/bgzolab/hammerspoon-config/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bgzolab/hammerspoon-config" alt="contrib.rocks image" />
 </a>
 
 ## License
