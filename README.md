@@ -13,6 +13,7 @@ Hammerspoon loads `~/.hammerspoon/init.lua` on launch. After editing the config,
 1. Replace key `·` to -> `
 2. Replace key `…` to -> `:`
 3. Tap `Shift` (left or right) to switch between ABC and Shuangpin input sources
+4. Press `Ctrl+Shift+M` to temporarily swap `Command` and `Option` (press again, or reload config, to restore)
 
 ## Contributing
 
